@@ -29,4 +29,12 @@
 .site-header .logo::before,.site-header .logo::after,footer .logo::before,footer .logo::after{content:"";position:absolute;inset:0;pointer-events:none;background:#fff;-webkit-mask:url('assets/neon-logo.png') center/100% 100% no-repeat;mask:url('assets/neon-logo.png') center/100% 100% no-repeat}
 .site-header .logo::before,footer .logo::before{clip-path:inset(0 75% 0 0)}
 .site-header .logo::after,footer .logo::after{clip-path:inset(0 0 0 75%)}
+.portfolio-cta{padding:0 0 110px}
+.portfolio-card{display:flex;align-items:center;justify-content:space-between;gap:40px;padding:55px 60px;border-radius:28px;border:1px solid transparent;background:radial-gradient(circle at 100% 0%,#f0199222,transparent 55%) padding-box,linear-gradient(#0d0b0d,#0d0b0d) padding-box,var(--gradient) border-box}
+.portfolio-card .eyebrow{margin-bottom:18px}
+.portfolio-card h2{font-size:clamp(34px,3.6vw,52px)}
+.portfolio-card p:not(.eyebrow){color:var(--muted);font-size:16px;margin-top:18px;max-width:440px}
+.portfolio-card .button{flex-shrink:0;white-space:nowrap}
+@media(max-width:991px){.portfolio-cta{padding-bottom:85px}.portfolio-card{padding:45px 40px}}
+@media(max-width:767px){.portfolio-cta{padding-bottom:65px}.portfolio-card{flex-direction:column;align-items:flex-start;gap:28px;padding:36px 26px;border-radius:22px}.portfolio-card h2{font-size:36px}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*::before,*::after{animation:none!important;transition:none!important}.js-motion .reveal:not(.visible){opacity:1;transform:none}.hero-art{transform:none}.process-path path{stroke-dashoffset:0}}
