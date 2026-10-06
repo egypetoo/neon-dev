@@ -46,18 +46,9 @@
 .clients-arrow:hover{color:white;background:#ffffff12}
 .clients-track{flex:1;display:flex;align-items:center;gap:20px;margin:0;padding:0;list-style:none;overflow-x:auto;scroll-snap-type:x mandatory;scroll-behavior:smooth;scrollbar-width:none;-webkit-mask:linear-gradient(90deg,transparent,#000 6%,#000 94%,transparent);mask:linear-gradient(90deg,transparent,#000 6%,#000 94%,transparent)}
 .clients-track::-webkit-scrollbar{display:none}
-.client-logo{flex:0 0 calc((100% - 100px)/6);min-width:130px;height:60px;display:flex;align-items:center;justify-content:center;scroll-snap-align:start;color:#cfcfcf;opacity:.75;white-space:nowrap;user-select:none;transition:opacity .25s,color .25s}
-.client-logo:hover{opacity:1;color:white}
-.client-oracle{font:500 22px var(--heading);letter-spacing:2px}
-.client-samsung{font:800 21px Arial,sans-serif;letter-spacing:1.5px}
-.client-coca{font:italic 700 26px Georgia,'Times New Roman',serif;letter-spacing:-1px}
-.client-ey{font:800 30px Arial,sans-serif;position:relative;padding-top:6px}
-.client-ey::before{content:"";position:absolute;top:10px;left:50%;width:30px;height:5px;background:currentColor;transform:translateX(-35%) skewY(-18deg)}
-.client-orange{font:600 23px Arial,sans-serif}
-.client-orange sup{font-size:9px}
-.client-nestle{font:700 22px Arial,sans-serif}
-.client-schneider{flex-direction:column;font:700 18px/1 Arial,sans-serif}
-.client-schneider small{font:italic 400 12px/1.2 Georgia,serif}
+.client-logo{flex:0 0 calc((100% - 100px)/6);min-width:130px;height:84px;display:flex;align-items:center;justify-content:center;scroll-snap-align:start;opacity:.7;user-select:none;transition:opacity .25s}
+.client-logo:hover{opacity:1}
+.client-logo img{width:auto;height:auto;max-width:82%;max-height:72px;object-fit:contain;-webkit-user-drag:none}
 @media(max-width:767px){.stats{padding:35px 0 40px}.stats-grid{grid-template-columns:repeat(2,1fr);row-gap:30px}.stat:nth-child(3){border-left:0}.stat strong{font-size:38px}.clients-slider{gap:8px}.clients-arrow{width:34px;height:34px}.client-logo{min-width:120px}}
 .idea-cta{position:relative;overflow:hidden;padding:150px 0 110px;background:#080808;border-top:1px solid var(--line)}
 .idea-cta-art{position:absolute;inset:0;background:linear-gradient(0deg,#080808 0%,#080808d9 35%,#08080866 75%,#08080833 100%),linear-gradient(90deg,#080808cc 0%,transparent 60%),url('assets/creative-04-hd.png') center 35%/cover no-repeat}
