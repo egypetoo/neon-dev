@@ -1,0 +1,850 @@
+{
+    "settings": {
+        "portfolio_url": "https:\/\/canva.link\/neon-portfolio",
+        "call_number": "",
+        "whatsapp_number": "",
+        "logo": "assets\/neon-logo.png",
+        "hero_event": "assets\/contact-entrance-hd.png",
+        "hero_marketing": "assets\/marketing-hero-full-hd.png",
+        "about_image": "assets\/brand-world.png",
+        "cta_image": "assets\/creative-04-hd.png"
+    },
+    "stats": [
+        {
+            "count": 150,
+            "suffix": "+"
+        },
+        {
+            "count": 50,
+            "suffix": "+"
+        },
+        {
+            "count": 10,
+            "suffix": "+"
+        },
+        {
+            "count": 100,
+            "suffix": "%"
+        }
+    ],
+    "copy": {
+        "en": {
+            "title": "Neon — Experiences that move brands.",
+            "description": "Neon brings brands and people together through event management, marketing, branding and digital experiences.",
+            "skip": "Skip to content",
+            "logo_home": "Neon home",
+            "nav_label": "Main navigation",
+            "nav_about": "About",
+            "nav_events": "Events",
+            "nav_services": "Services",
+            "nav_work": "Work",
+            "nav_contact": "Contact",
+            "download_portfolio": "Download Portfolio",
+            "open_nav": "Open navigation",
+            "close_nav": "Close navigation",
+            "mobile_nav": "Mobile navigation",
+            "hero_label": "Neon experiences",
+            "hero_eyebrow": "Event management & marketing solutions",
+            "hero_title": "Events<br>that <em>move<\/em><br>brands.",
+            "hero_description": "We design and deliver end-to-end event experiences that connect brands and people in the real world.",
+            "hero_cta": "Let's plan your event",
+            "scroll": "Scroll<br>to explore",
+            "slide_event": "Show event management slide",
+            "slide_marketing": "Show marketing slide",
+            "pause": "Pause automatic slider",
+            "resume": "Resume automatic slider",
+            "portfolio_eyebrow": "Our portfolio",
+            "portfolio_title": "See the full<br><em>Neon story.<\/em>",
+            "portfolio_text": "Events, brands and experiences we've brought to life. All in one place.",
+            "events_eyebrow": "What we do",
+            "events_title": "Full-service.<br><em>Full impact.<\/em>",
+            "events_text": "From the first spark to the final applause, we bring strategy, creativity and flawless execution together.",
+            "events_index": "01 \/ EXPERTISE",
+            "tabs_label": "Explore our expertise",
+            "tab_events": "Event management",
+            "tab_marketing": "Marketing solutions",
+            "marquee_a": "Ideas into impact.",
+            "marquee_b": "Brands into experiences.",
+            "work_eyebrow": "Our creative world",
+            "work_title": "Real moments.<br><em>Lasting impact.<\/em>",
+            "work_text": "A look at the experiences we imagine. Distinctive spaces, meaningful stories and brands you feel.",
+            "work_index": "02 \/ SELECTED CONCEPTS",
+            "filters_label": "Filter creative concepts",
+            "filter_all": "All experiences",
+            "filter_events": "Events",
+            "filter_marketing": "Brand & digital",
+            "label_event": "EVENT EXPERIENCE",
+            "label_brand": "BRAND IDENTITY",
+            "label_digital": "DIGITAL CAMPAIGN",
+            "label_live": "LIVE EXPERIENCE",
+            "view": "Explore concept",
+            "work1_alt": "Neon illuminated launch stage",
+            "work1_title": "A brand. A whole new world.",
+            "work1_meta": "Brand launch \/ Event design",
+            "work2_alt": "Orange and black brand packaging concept",
+            "work2_title": "From ordinary to unmissable.",
+            "work2_meta": "Strategy \/ Brand identity",
+            "work3_alt": "Vibrant pink digital campaign on a smartphone",
+            "work3_title": "Small screen. Big energy.",
+            "work3_meta": "Digital \/ Content creation",
+            "work4_alt": "Festival stage with dramatic blue lighting",
+            "work4_title": "A moment everyone shares.",
+            "work4_meta": "Live events \/ Production",
+            "about_eyebrow": "About Us",
+            "about_title": "Your brand<br>is more than<br><em>a moment.<\/em>",
+            "about_lead": "It's how people feel.<br>It's what they remember.",
+            "about_body": "We connect strategy with creativity, and ideas with the real world. Bringing event management and marketing together means every touchpoint tells the same powerful story.",
+            "about_link": "Discover our approach",
+            "about_image_alt": "The original Neon brand identity across stationery and printed materials",
+            "about_note": "ONE IDENTITY. INFINITE POSSIBILITIES.",
+            "process_eyebrow": "Our process",
+            "process_title": "From a spark<br>to <em>something real.<\/em>",
+            "process_text": "One connected team. One clear journey. From understanding your ambition to delivering every last detail.",
+            "process_index": "03 \/ THE JOURNEY",
+            "step1_title": "Discover",
+            "step1_text": "Your brand. Your audience. Your ambition.",
+            "step2_title": "Define",
+            "step2_text": "A clear strategy with a purpose behind it.",
+            "step3_title": "Create",
+            "step3_text": "Ideas with character. Design with intention.",
+            "step4_title": "Deliver",
+            "step4_text": "Production, planning and every fine detail.",
+            "step5_title": "Amplify",
+            "step5_text": "Take the experience further. Keep the story moving.",
+            "cap1_title": "Strategy.",
+            "cap1_text": "A purpose behind every idea.",
+            "cap2_title": "Creativity.",
+            "cap2_text": "A perspective that stands out.",
+            "cap3_title": "Production.",
+            "cap3_text": "Every detail, brought to life.",
+            "cap4_title": "Connection.",
+            "cap4_text": "People at the heart of it all.",
+            "stats_title": "Our numbers",
+            "stat1": "Events delivered",
+            "stat2": "Brands trust us",
+            "stat3": "Industries",
+            "stat4": "Commitment",
+            "clients_title": "Trusted by leading brands",
+            "clients_prev": "Previous brands",
+            "clients_next": "Next brands",
+            "cta_eyebrow": "Let's create together",
+            "cta_title": "Got an idea?<br>Let's make it <em>real.<\/em>",
+            "cta_text": "Whether it's a brand launch, a corporate event or a completely new experience, we're ready to bring your vision to life.",
+            "cta_button": "Plan your event",
+            "footer_tagline": "Marketing solutions.<br>Unforgettable experiences.",
+            "footer_nav": "Footer navigation",
+            "back_top": "Back to top",
+            "copyright": "Neon.",
+            "footer_note": "Built around your ambition.",
+            "brief_close": "Close project brief",
+            "brief_eyebrow": "Make the first move",
+            "brief_title": "Tell us your <em>idea.<\/em>",
+            "brief_intro": "Prepare a project brief to download and share with the Neon team.",
+            "brief_name": "Your name",
+            "brief_name_ph": "Full name",
+            "brief_email": "Email address",
+            "brief_email_ph": "you@company.com",
+            "brief_plan": "What are you planning?",
+            "brief_opt1": "Event management",
+            "brief_opt2": "Brand strategy & identity",
+            "brief_opt3": "Digital marketing",
+            "brief_opt4": "Content creation",
+            "brief_opt5": "A connected brand experience",
+            "brief_more": "Tell us a little more",
+            "brief_more_ph": "Your idea, timeline and what success looks like.",
+            "brief_submit": "Download project brief",
+            "brief_status": "Your brief is ready to download. Share the file with the Neon team to start the conversation.",
+            "brief_file_title": "NEON — PROJECT BRIEF",
+            "brief_file_name": "Name",
+            "brief_file_email": "Email",
+            "brief_file_service": "Service",
+            "brief_file_idea": "Project idea",
+            "brief_file_prepared": "Prepared",
+            "detail_close": "Close details",
+            "detail_cta": "Plan something like this",
+            "events_category": "Event management",
+            "marketing_category": "Marketing solutions",
+            "card_alt_suffix": "creative concept",
+            "float_label": "Quick contact",
+            "call": "Call",
+            "whatsapp": "WhatsApp",
+            "call_label": "Call Neon",
+            "wa_label": "WhatsApp Neon",
+            "call_ready": "Call Neon",
+            "wa_ready": "Chat on WhatsApp",
+            "call_pending": "Call — phone number pending",
+            "wa_pending": "WhatsApp — phone number pending",
+            "contact_close": "Close contact information",
+            "contact_eyebrow": "Let's connect",
+            "contact_title": "Let's start a <em>conversation.<\/em>",
+            "contact_intro": "Our direct contact details will be available here soon. You can prepare your project brief in the meantime.",
+            "contact_brief": "Prepare a project brief",
+            "lang_switch": "العربية",
+            "lang_code": "AR"
+        },
+        "ar": {
+            "title": "نيون — تجارب تحرّك العلامات.",
+            "description": "تجمع نيون بين العلامات والناس عبر إدارة الفعاليات والتسويق والهوية والتجارب الرقمية.",
+            "skip": "تخطَّ إلى المحتوى",
+            "logo_home": "الصفحة الرئيسية لنيون",
+            "nav_label": "التنقل الرئيسي",
+            "nav_about": "من نحن",
+            "nav_events": "الفعاليات",
+            "nav_services": "الخدمات",
+            "nav_work": "الأعمال",
+            "nav_contact": "تواصل",
+            "download_portfolio": "تحميل الأعمال",
+            "open_nav": "فتح القائمة",
+            "close_nav": "إغلاق القائمة",
+            "mobile_nav": "قائمة الجوال",
+            "hero_label": "تجارب نيون",
+            "hero_eyebrow": "إدارة الفعاليات وحلول التسويق",
+            "hero_title": "فعاليات<br>تحرّك <em>العلامات<\/em>.",
+            "hero_description": "نصمّم وننفّذ تجارب فعاليات متكاملة تربط العلامات بالناس في العالم الحقيقي.",
+            "hero_cta": "لنخطط فعاليتكم",
+            "scroll": "مرّر<br>لاستكشاف المزيد",
+            "slide_event": "عرض شريحة إدارة الفعاليات",
+            "slide_marketing": "عرض شريحة التسويق",
+            "pause": "إيقاف السلايدر",
+            "resume": "تشغيل السلايدر",
+            "portfolio_eyebrow": "أعمالنا",
+            "portfolio_title": "شاهدوا قصة<br><em>نيون كاملة.<\/em>",
+            "portfolio_text": "فعاليات وعلامات وتجارب أحييناها. كلها في مكان واحد.",
+            "events_eyebrow": "ماذا نفعل",
+            "events_title": "خدمة كاملة.<br><em>أثر كامل.<\/em>",
+            "events_text": "من أول شرارة حتى التصفيق الأخير، نجمع الاستراتيجية والإبداع والتنفيذ المتقن.",
+            "events_index": "٠١ \/ الخبرة",
+            "tabs_label": "استكشفوا خبرتنا",
+            "tab_events": "إدارة الفعاليات",
+            "tab_marketing": "حلول التسويق",
+            "marquee_a": "من الفكرة إلى الأثر.",
+            "marquee_b": "من العلامة إلى التجربة.",
+            "work_eyebrow": "عالمنا الإبداعي",
+            "work_title": "لحظات حقيقية.<br><em>أثر يبقى.<\/em>",
+            "work_text": "نظرة على التجارب التي نتخيّلها. مساحات مميزة وقصص ذات معنى وعلامات تُحَس.",
+            "work_index": "٠٢ \/ مفاهيم مختارة",
+            "filters_label": "تصفية المفاهيم الإبداعية",
+            "filter_all": "كل التجارب",
+            "filter_events": "فعاليات",
+            "filter_marketing": "العلامة والرقمي",
+            "label_event": "تجربة فعالية",
+            "label_brand": "هوية العلامة",
+            "label_digital": "حملة رقمية",
+            "label_live": "تجربة حية",
+            "view": "استكشف المفهوم",
+            "work1_alt": "مسرح إطلاق مضاء بهوية نيون",
+            "work1_title": "علامة. وعالم جديد بالكامل.",
+            "work1_meta": "إطلاق علامة \/ تصميم فعالية",
+            "work2_alt": "مفهوم تغليف بالبرتقالي والأسود",
+            "work2_title": "من العادي إلى ما لا يُفوَّت.",
+            "work2_meta": "استراتيجية \/ هوية العلامة",
+            "work3_alt": "حملة رقمية وردية على هاتف",
+            "work3_title": "شاشة صغيرة. طاقة كبيرة.",
+            "work3_meta": "رقمي \/ صناعة محتوى",
+            "work4_alt": "مسرح مهرجان بإضاءة زرقاء",
+            "work4_title": "لحظة يشاركها الجميع.",
+            "work4_meta": "فعاليات حية \/ إنتاج",
+            "about_eyebrow": "من نحن",
+            "about_title": "علامتكم<br>أكبر من<br><em>لحظة.<\/em>",
+            "about_lead": "هي ما يشعر به الناس.<br>وهي ما يتذكرونه.",
+            "about_body": "نربط الاستراتيجية بالإبداع، والأفكار بالعالم الحقيقي. جمع إدارة الفعاليات والتسويق يعني أن كل نقطة تواصل تحكي القصة نفسها بقوة.",
+            "about_link": "اكتشفوا أسلوبنا",
+            "about_image_alt": "هوية نيون الأصلية على المطبوعات والقرطاسية",
+            "about_note": "هوية واحدة. إمكانات بلا حد.",
+            "process_eyebrow": "طريقتنا",
+            "process_title": "من شرارة<br>إلى <em>شيء حقيقي.<\/em>",
+            "process_text": "فريق واحد مترابط. رحلة واحدة واضحة. من فهم طموحكم حتى تسليم كل تفصيلة.",
+            "process_index": "٠٣ \/ الرحلة",
+            "step1_title": "نكتشف",
+            "step1_text": "علامتكم. جمهوركم. طموحكم.",
+            "step2_title": "نحدّد",
+            "step2_text": "استراتيجية واضحة لها غاية.",
+            "step3_title": "نبتكر",
+            "step3_text": "أفكار لها شخصية. وتصميم بقصد.",
+            "step4_title": "ننجز",
+            "step4_text": "إنتاج وتخطيط وكل تفصيلة دقيقة.",
+            "step5_title": "نوسّع",
+            "step5_text": "نأخذ التجربة أبعد. ونُبقي القصة تتحرك.",
+            "cap1_title": "استراتيجية.",
+            "cap1_text": "غاية خلف كل فكرة.",
+            "cap2_title": "إبداع.",
+            "cap2_text": "زاوية تميّزكم.",
+            "cap3_title": "إنتاج.",
+            "cap3_text": "كل تفصيلة تخرج إلى الحياة.",
+            "cap4_title": "تواصل.",
+            "cap4_text": "الناس في قلب كل شيء.",
+            "stats_title": "أرقامنا",
+            "stat1": "فعالية أُنجزت",
+            "stat2": "علامة تثق بنا",
+            "stat3": "قطاعات",
+            "stat4": "التزام",
+            "clients_title": "علامات رائدة تثق بنا",
+            "clients_prev": "العلامات السابقة",
+            "clients_next": "العلامات التالية",
+            "cta_eyebrow": "لنصنع معًا",
+            "cta_title": "عندكم فكرة؟<br>لنحوّلها إلى <em>واقع.<\/em>",
+            "cta_text": "سواء كان إطلاق علامة أو فعالية شركات أو تجربة جديدة بالكامل، نحن جاهزون لإحياء رؤيتكم.",
+            "cta_button": "خطّطوا فعاليتكم",
+            "footer_tagline": "حلول تسويق.<br>تجارب لا تُنسى.",
+            "footer_nav": "تنقل التذييل",
+            "back_top": "العودة للأعلى",
+            "copyright": "نيون.",
+            "footer_note": "مبني حول طموحكم.",
+            "brief_close": "إغلاق نموذج الفكرة",
+            "brief_eyebrow": "ابدأوا الخطوة الأولى",
+            "brief_title": "احكوا لنا <em>فكرتكم.<\/em>",
+            "brief_intro": "جهّزوا ملخص المشروع لتحميله ومشاركته مع فريق نيون.",
+            "brief_name": "الاسم",
+            "brief_name_ph": "الاسم الكامل",
+            "brief_email": "البريد الإلكتروني",
+            "brief_email_ph": "you@company.com",
+            "brief_plan": "ماذا تخططون؟",
+            "brief_opt1": "إدارة فعاليات",
+            "brief_opt2": "استراتيجية العلامة والهوية",
+            "brief_opt3": "تسويق رقمي",
+            "brief_opt4": "صناعة محتوى",
+            "brief_opt5": "تجربة علامة مترابطة",
+            "brief_more": "احكوا لنا المزيد",
+            "brief_more_ph": "فكرتكم والجدول الزمني وكيف يبدو النجاح.",
+            "brief_submit": "تحميل ملخص المشروع",
+            "brief_status": "ملخصكم جاهز للتحميل. شاركوا الملف مع فريق نيون لبدء الحوار.",
+            "brief_file_title": "نيون — ملخص المشروع",
+            "brief_file_name": "الاسم",
+            "brief_file_email": "البريد",
+            "brief_file_service": "الخدمة",
+            "brief_file_idea": "فكرة المشروع",
+            "brief_file_prepared": "تاريخ الإعداد",
+            "detail_close": "إغلاق التفاصيل",
+            "detail_cta": "خطّطوا لتجربة مشابهة",
+            "events_category": "إدارة الفعاليات",
+            "marketing_category": "حلول التسويق",
+            "card_alt_suffix": "مفهوم إبداعي",
+            "float_label": "تواصل سريع",
+            "call": "اتصال",
+            "whatsapp": "واتساب",
+            "call_label": "الاتصال بنيون",
+            "wa_label": "واتساب نيون",
+            "call_ready": "الاتصال بنيون",
+            "wa_ready": "محادثة واتساب",
+            "call_pending": "اتصال — الرقم غير مضاف بعد",
+            "wa_pending": "واتساب — الرقم غير مضاف بعد",
+            "contact_close": "إغلاق بيانات التواصل",
+            "contact_eyebrow": "لنتواصل",
+            "contact_title": "لنبدأ <em>حوارًا.<\/em>",
+            "contact_intro": "بيانات التواصل المباشر ستظهر هنا قريبًا. يمكنكم تجهيز ملخص المشروع في هذه الأثناء.",
+            "contact_brief": "تجهيز ملخص المشروع",
+            "lang_switch": "English",
+            "lang_code": "EN"
+        }
+    },
+    "slides": {
+        "en": [
+            {
+                "title": "Events<br>that <em>move<\/em><br>brands.",
+                "description": "We design and deliver end-to-end event experiences that connect brands and people in the real world.",
+                "cta": "Let's plan your event"
+            },
+            {
+                "title": "Ideas<br>that <em>move<\/em><br>brands.",
+                "description": "We create marketing solutions that connect brands with people, drive real results, and keep the momentum going.",
+                "cta": "Start your project"
+            }
+        ],
+        "ar": [
+            {
+                "title": "فعاليات<br>تحرّك <em>العلامات<\/em>.",
+                "description": "نصمّم وننفّذ تجارب فعاليات متكاملة تربط العلامات بالناس في العالم الحقيقي.",
+                "cta": "لنخطط فعاليتكم"
+            },
+            {
+                "title": "أفكار<br>تحرّك <em>العلامات<\/em>.",
+                "description": "نصنع حلولًا تسويقية تربط العلامات بالناس وتحقق نتائج حقيقية وتُبقي الزخم مستمرًا.",
+                "cta": "ابدأ مشروعك"
+            }
+        ]
+    },
+    "expertise": {
+        "en": {
+            "events": [
+                [
+                    "Corporate events",
+                    "Thoughtfully planned gatherings that bring teams, partners and brands together.",
+                    "creative-01-hd.png",
+                    "Creative direction|Event planning|On-site coordination"
+                ],
+                [
+                    "Exhibitions & booths",
+                    "Spaces that tell your story and turn every visitor into a meaningful connection.",
+                    "service-event-02-hd.png",
+                    "Exhibition design|Spatial branding|Production"
+                ],
+                [
+                    "Brand activations",
+                    "Bring your brand into the real world with experiences people want to be part of.",
+                    "service-event-03-hd.png",
+                    "Experience strategy|Audience engagement|Activation design"
+                ],
+                [
+                    "Festivals & live events",
+                    "Shared moments, big energy and seamless production from beginning to end.",
+                    "creative-04-hd.png",
+                    "Stage design|Live production|Event management"
+                ]
+            ],
+            "marketing": [
+                [
+                    "Branding",
+                    "Build a distinctive identity, grounded in who you are and where you want to go.",
+                    "service-marketing-01-hd.png",
+                    "Brand strategy|Visual identity|Brand guidelines"
+                ],
+                [
+                    "Digital",
+                    "Connect with the right people through a clear strategy and purposeful digital campaigns.",
+                    "service-marketing-02-hd.png",
+                    "Digital strategy|Campaign planning|Social media"
+                ],
+                [
+                    "Content",
+                    "Stories that carry your brand, from the first frame to the final impression.",
+                    "service-marketing-03-hd.png",
+                    "Creative direction|Photography|Film & content"
+                ],
+                [
+                    "Experiences",
+                    "Make every brand interaction feel like part of one connected world.",
+                    "service-marketing-04-hd.png",
+                    "Experience design|Brand activation|Integrated campaigns"
+                ]
+            ]
+        },
+        "ar": {
+            "events": [
+                [
+                    "فعاليات الشركات",
+                    "لقاءات مدروسة تجمع الفرق والشركاء والعلامات في تجربة واحدة.",
+                    "creative-01-hd.png",
+                    "توجيه إبداعي|تخطيط الفعالية|تنسيق في الموقع"
+                ],
+                [
+                    "المعارض والأجنحة",
+                    "مساحات تحكي قصتك وتحوّل كل زائر إلى علاقة ذات معنى.",
+                    "service-event-02-hd.png",
+                    "تصميم المعرض|هوية مكانية|إنتاج"
+                ],
+                [
+                    "تفعيل العلامة",
+                    "ننقل علامتك إلى العالم الحقيقي بتجارب يرغب الناس في أن يكونوا جزءًا منها.",
+                    "service-event-03-hd.png",
+                    "استراتيجية التجربة|تفاعل الجمهور|تصميم التفعيل"
+                ],
+                [
+                    "المهرجانات والفعاليات الحية",
+                    "لحظات مشتركة وطاقة عالية وإنتاج متقن من البداية حتى النهاية.",
+                    "creative-04-hd.png",
+                    "تصميم المسرح|إنتاج حي|إدارة الفعالية"
+                ]
+            ],
+            "marketing": [
+                [
+                    "الهوية",
+                    "نبني هوية مميزة تنطلق من هويتكم والوجهة التي تريدون الوصول إليها.",
+                    "service-marketing-01-hd.png",
+                    "استراتيجية العلامة|الهوية البصرية|أدلة الهوية"
+                ],
+                [
+                    "الرقمي",
+                    "نصل إلى الجمهور المناسب باستراتيجية واضحة وحملات رقمية هادفة.",
+                    "service-marketing-02-hd.png",
+                    "استراتيجية رقمية|تخطيط الحملات|وسائل التواصل"
+                ],
+                [
+                    "المحتوى",
+                    "قصص تحمل علامتكم من أول لقطة حتى آخر انطباع.",
+                    "service-marketing-03-hd.png",
+                    "توجيه إبداعي|تصوير|أفلام ومحتوى"
+                ],
+                [
+                    "التجارب",
+                    "نجعل كل تواصل مع العلامة جزءًا من عالم واحد مترابط.",
+                    "service-marketing-04-hd.png",
+                    "تصميم التجربة|تفعيل العلامة|حملات متكاملة"
+                ]
+            ]
+        }
+    },
+    "works": [
+        {
+            "type": "events",
+            "col": "col-md-7",
+            "image": "assets\/creative-01-hd.png",
+            "title": {
+                "en": "A brand. A whole new world.",
+                "ar": "علامة. وعالم جديد بالكامل."
+            },
+            "meta": {
+                "en": "Brand launch \/ Event design",
+                "ar": "إطلاق علامة \/ تصميم فعالية"
+            },
+            "alt": {
+                "en": "Neon illuminated launch stage",
+                "ar": "مسرح إطلاق مضاء بهوية نيون"
+            },
+            "label": {
+                "en": "EVENT EXPERIENCE",
+                "ar": "تجربة فعالية"
+            },
+            "category": {
+                "en": "Event experience \/ Creative concept",
+                "ar": "تجربة فعالية \/ مفهوم إبداعي"
+            },
+            "description": {
+                "en": "A launch built around one powerful reveal. A distinctive stage, branded light and a carefully planned guest journey turn a new chapter into a shared experience.",
+                "ar": "إطلاق يُبنى حول لحظة كشف واحدة. مسرح مميز وإضاءة تحمل الهوية ورحلة ضيوف مدروسة تحوّل فصلًا جديدًا إلى تجربة مشتركة."
+            },
+            "tags": {
+                "en": "Creative direction|Spatial design|Event production",
+                "ar": "توجيه إبداعي|تصميم مكاني|إنتاج الفعالية"
+            }
+        },
+        {
+            "type": "marketing",
+            "col": "col-md-5",
+            "image": "assets\/creative-02-hd.png",
+            "title": {
+                "en": "From ordinary to unmissable.",
+                "ar": "من العادي إلى ما لا يُفوَّت."
+            },
+            "meta": {
+                "en": "Strategy \/ Brand identity",
+                "ar": "استراتيجية \/ هوية العلامة"
+            },
+            "alt": {
+                "en": "Orange and black brand packaging concept",
+                "ar": "مفهوم تغليف بالبرتقالي والأسود"
+            },
+            "label": {
+                "en": "BRAND IDENTITY",
+                "ar": "هوية العلامة"
+            },
+            "category": {
+                "en": "Brand identity \/ Creative concept",
+                "ar": "هوية العلامة \/ مفهوم إبداعي"
+            },
+            "description": {
+                "en": "An identity that carries its character into every detail. Bold color, considered packaging and a consistent visual language help a brand tell one memorable story.",
+                "ar": "هوية تحمل شخصيتها في كل تفصيلة. لون جريء وتغليف مدروس ولغة بصرية ثابتة تساعد العلامة على حكاية واحدة تُتذكَّر."
+            },
+            "tags": {
+                "en": "Brand strategy|Visual identity|Packaging",
+                "ar": "استراتيجية العلامة|هوية بصرية|تغليف"
+            }
+        },
+        {
+            "type": "marketing",
+            "col": "col-md-5",
+            "image": "assets\/creative-03-hd.png",
+            "title": {
+                "en": "Small screen. Big energy.",
+                "ar": "شاشة صغيرة. طاقة كبيرة."
+            },
+            "meta": {
+                "en": "Digital \/ Content creation",
+                "ar": "رقمي \/ صناعة محتوى"
+            },
+            "alt": {
+                "en": "Vibrant pink digital campaign on a smartphone",
+                "ar": "حملة رقمية وردية على هاتف"
+            },
+            "label": {
+                "en": "DIGITAL CAMPAIGN",
+                "ar": "حملة رقمية"
+            },
+            "category": {
+                "en": "Digital campaign \/ Creative concept",
+                "ar": "حملة رقمية \/ مفهوم إبداعي"
+            },
+            "description": {
+                "en": "A digital-first visual concept designed to feel immediate and unmistakable. Connecting expressive content, campaign storytelling and a clear brand presence.",
+                "ar": "مفهوم بصري رقمي يُصمَّم ليكون فوريًا ولا يُخطَأ. يربط المحتوى التعبيري بسرد الحملة وحضور واضح للعلامة."
+            },
+            "tags": {
+                "en": "Content direction|Campaign concept|Digital design",
+                "ar": "توجيه المحتوى|مفهوم الحملة|تصميم رقمي"
+            }
+        },
+        {
+            "type": "events",
+            "col": "col-md-7",
+            "image": "assets\/creative-04-hd.png",
+            "title": {
+                "en": "A moment everyone shares.",
+                "ar": "لحظة يشاركها الجميع."
+            },
+            "meta": {
+                "en": "Live events \/ Production",
+                "ar": "فعاليات حية \/ إنتاج"
+            },
+            "alt": {
+                "en": "Festival stage with dramatic blue lighting",
+                "ar": "مسرح مهرجان بإضاءة زرقاء"
+            },
+            "label": {
+                "en": "LIVE EXPERIENCE",
+                "ar": "تجربة حية"
+            },
+            "category": {
+                "en": "Live experience \/ Creative concept",
+                "ar": "تجربة حية \/ مفهوم إبداعي"
+            },
+            "description": {
+                "en": "An atmosphere shaped by light, sound and the energy of the crowd. Every production detail works together to make the live experience feel seamless.",
+                "ar": "أجواء يشكّلها الضوء والصوت وطاقة الجمهور. كل تفصيلة إنتاج تعمل معًا لتجعل التجربة الحية سلسة."
+            },
+            "tags": {
+                "en": "Stage production|Live experience|Event planning",
+                "ar": "إنتاج المسرح|تجربة حية|تخطيط الفعالية"
+            }
+        }
+    ],
+    "clients": [
+        {
+            "src": "assets\/clients\/national-bank-of-egypt.png",
+            "alt_en": "National Bank of Egypt",
+            "alt_ar": "البنك الأهلي المصري",
+            "w": 147,
+            "h": 108
+        },
+        {
+            "src": "assets\/clients\/banque-misr.png",
+            "alt_en": "Banque Misr",
+            "alt_ar": "بنك مصر",
+            "w": 131,
+            "h": 136
+        },
+        {
+            "src": "assets\/clients\/four-seasons.png",
+            "alt_en": "Four Seasons",
+            "alt_ar": "فور سيزونز",
+            "w": 208,
+            "h": 99
+        },
+        {
+            "src": "assets\/clients\/ey.png",
+            "alt_en": "EY",
+            "alt_ar": "EY",
+            "w": 134,
+            "h": 68
+        },
+        {
+            "src": "assets\/clients\/sodic.png",
+            "alt_en": "SODIC",
+            "alt_ar": "سوديك",
+            "w": 173,
+            "h": 47
+        },
+        {
+            "src": "assets\/clients\/oilibya.png",
+            "alt_en": "OiLibya",
+            "alt_ar": "أويل ليبيا",
+            "w": 200,
+            "h": 68
+        },
+        {
+            "src": "assets\/clients\/egyptian-customs.png",
+            "alt_en": "Egyptian Customs Authority",
+            "alt_ar": "مصلحة الجمارك المصرية",
+            "w": 121,
+            "h": 121
+        },
+        {
+            "src": "assets\/clients\/koueider.png",
+            "alt_en": "Abdel Rahim Koueider",
+            "alt_ar": "عبد الرحيم قويدر",
+            "w": 161,
+            "h": 35
+        },
+        {
+            "src": "assets\/clients\/marassi.png",
+            "alt_en": "Marassi",
+            "alt_ar": "مراسي",
+            "w": 129,
+            "h": 25
+        },
+        {
+            "src": "assets\/clients\/goeic.png",
+            "alt_en": "GOEIC",
+            "alt_ar": "الهيئة العامة للرقابة على الصادرات والواردات",
+            "w": 134,
+            "h": 122
+        },
+        {
+            "src": "assets\/clients\/roshen.png",
+            "alt_en": "Roshen",
+            "alt_ar": "روشن",
+            "w": 162,
+            "h": 83
+        },
+        {
+            "src": "assets\/clients\/idh.png",
+            "alt_en": "Integrated Diagnostics Holdings",
+            "alt_ar": "إنتجريتد دياجنوستكس",
+            "w": 187,
+            "h": 65
+        },
+        {
+            "src": "assets\/clients\/dala.png",
+            "alt_en": "Dala — Arab Company for Modern Industries",
+            "alt_ar": "دالا — الشركة العربية للصناعات الحديثة",
+            "w": 189,
+            "h": 94
+        },
+        {
+            "src": "assets\/clients\/mts.png",
+            "alt_en": "Misr Technology Services",
+            "alt_ar": "مصر لخدمات التكنولوجيا",
+            "w": 136,
+            "h": 119
+        },
+        {
+            "src": "assets\/clients\/nafeza.png",
+            "alt_en": "Nafeza",
+            "alt_ar": "نافذة",
+            "w": 193,
+            "h": 75
+        },
+        {
+            "src": "assets\/clients\/agora.png",
+            "alt_en": "Agora",
+            "alt_ar": "أجورا",
+            "w": 144,
+            "h": 35
+        },
+        {
+            "src": "assets\/clients\/corona.png",
+            "alt_en": "Corona",
+            "alt_ar": "كورونا",
+            "w": 138,
+            "h": 112
+        },
+        {
+            "src": "assets\/clients\/buc.png",
+            "alt_en": "Badr University in Cairo",
+            "alt_ar": "جامعة بدر بالقاهرة",
+            "w": 165,
+            "h": 66
+        },
+        {
+            "src": "assets\/clients\/synergy.png",
+            "alt_en": "Synergy",
+            "alt_ar": "سينرجي",
+            "w": 176,
+            "h": 66
+        },
+        {
+            "src": "assets\/clients\/ayad-steel.png",
+            "alt_en": "Ayad Steel",
+            "alt_ar": "عياد ستيل",
+            "w": 172,
+            "h": 61
+        },
+        {
+            "src": "assets\/clients\/royal-house.png",
+            "alt_en": "Royal House",
+            "alt_ar": "رويال هاوس",
+            "w": 150,
+            "h": 81
+        },
+        {
+            "src": "assets\/clients\/changhe.png",
+            "alt_en": "Changhe",
+            "alt_ar": "تشانج هي",
+            "w": 136,
+            "h": 91
+        },
+        {
+            "src": "assets\/clients\/nahdet-misr.png",
+            "alt_en": "Nahdet Misr Publishing Group",
+            "alt_ar": "نهضة مصر للنشر",
+            "w": 66,
+            "h": 111
+        },
+        {
+            "src": "assets\/clients\/soul.png",
+            "alt_en": "Soul",
+            "alt_ar": "سول",
+            "w": 177,
+            "h": 39
+        },
+        {
+            "src": "assets\/clients\/alborg-labs.png",
+            "alt_en": "Alborg Labs",
+            "alt_ar": "مختبرات البرج",
+            "w": 133,
+            "h": 87
+        },
+        {
+            "src": "assets\/clients\/kenbo.png",
+            "alt_en": "Kenbo",
+            "alt_ar": "كينبو",
+            "w": 145,
+            "h": 103
+        },
+        {
+            "src": "assets\/clients\/sonker.png",
+            "alt_en": "Sonker",
+            "alt_ar": "سونكر",
+            "w": 242,
+            "h": 52
+        },
+        {
+            "src": "assets\/clients\/cairo-lab.png",
+            "alt_en": "Cairo Lab",
+            "alt_ar": "كايرو لاب",
+            "w": 132,
+            "h": 106
+        },
+        {
+            "src": "assets\/clients\/aladwaa.png",
+            "alt_en": "Aladwaa",
+            "alt_ar": "الأضواء",
+            "w": 157,
+            "h": 68
+        },
+        {
+            "src": "assets\/clients\/npi.png",
+            "alt_en": "Nile for Plastic Industries",
+            "alt_ar": "النيل للصناعات البلاستيكية",
+            "w": 109,
+            "h": 91
+        },
+        {
+            "src": "assets\/clients\/al-mokhtabar.png",
+            "alt_en": "Al Mokhtabar",
+            "alt_ar": "المختبر",
+            "w": 181,
+            "h": 33
+        },
+        {
+            "src": "assets\/clients\/boudy-group.png",
+            "alt_en": "Boudy Group",
+            "alt_ar": "مجموعة بودي",
+            "w": 135,
+            "h": 60
+        },
+        {
+            "src": "assets\/clients\/nis.png",
+            "alt_en": "NIS",
+            "alt_ar": "NIS",
+            "w": 105,
+            "h": 115
+        },
+        {
+            "src": "assets\/clients\/souq-el-sayarat.png",
+            "alt_en": "Souq El Sayarat",
+            "alt_ar": "سوق السيارات",
+            "w": 139,
+            "h": 60
+        }
+    ]
+}
