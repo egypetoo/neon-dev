@@ -28,24 +28,17 @@ $statKeys = ['stat1', 'stat2', 'stat3', 'stat4'];
   <link rel="preload" href="assets/chillax-600.woff2" as="font" type="font/woff2" crossorigin><link rel="preload" href="<?= e($heroEvent) ?>" as="image">
 </head>
 <body>
-<script>
-if (new URLSearchParams(location.search).has('lang')) {
-  const url = new URL(location.href);
-  url.searchParams.delete('lang');
-  history.replaceState(null, '', url.pathname + url.search + url.hash);
-}
-</script>
 <div class="scroll-progress" aria-hidden="true"></div>
 <a class="skip-link" href="#main"><?= t('skip') ?></a>
 <header class="site-header"><div class="container header-inner">
   <a class="logo" href="#home" aria-label="<?= t('logo_home') ?>"><img src="<?= e($logo) ?>" alt="neon" width="1248" height="360"></a>
   <nav class="desktop-nav" aria-label="<?= t('nav_label') ?>"><a href="#about"><?= t('nav_about') ?></a><a href="#events"><?= t('nav_events') ?></a><a href="#services"><?= t('nav_services') ?></a><a href="#work"><?= t('nav_work') ?></a><a href="#contact"><?= t('nav_contact') ?></a></nav>
   <div class="header-tools">
-    <a class="lang-switch" href="<?= e(lang_href($otherLang)) ?>" hreflang="<?= e($otherLang) ?>" lang="<?= e($otherLang) ?>"><?= t('lang_code') ?></a>
+    <a class="lang-switch" href="<?= e(lang_href($otherLang)) ?>" hreflang="<?= e($otherLang) ?>" lang="<?= e($otherLang) ?>" data-set-lang="<?= e($otherLang) ?>"><?= t('lang_code') ?></a>
     <a class="button button-outline header-cta" href="<?= e($portfolioUrl) ?>" target="_blank" rel="noopener noreferrer"><?= t('download_portfolio') ?></a>
   </div>
   <button class="menu-toggle" aria-label="<?= t('open_nav') ?>" aria-expanded="false" aria-controls="mobile-nav"><span></span><span></span></button>
-</div><nav id="mobile-nav" class="mobile-nav" aria-label="<?= t('mobile_nav') ?>" hidden><a href="#about"><?= t('nav_about') ?></a><a href="#events"><?= t('nav_events') ?></a><a href="#services"><?= t('nav_services') ?></a><a href="#work"><?= t('nav_work') ?></a><a href="#contact"><?= t('nav_contact') ?></a><a href="<?= e(lang_href($otherLang)) ?>" hreflang="<?= e($otherLang) ?>" lang="<?= e($otherLang) ?>"><?= t('lang_switch') ?></a></nav></header>
+</div><nav id="mobile-nav" class="mobile-nav" aria-label="<?= t('mobile_nav') ?>" hidden><a href="#about"><?= t('nav_about') ?></a><a href="#events"><?= t('nav_events') ?></a><a href="#services"><?= t('nav_services') ?></a><a href="#work"><?= t('nav_work') ?></a><a href="#contact"><?= t('nav_contact') ?></a><a href="<?= e(lang_href($otherLang)) ?>" hreflang="<?= e($otherLang) ?>" lang="<?= e($otherLang) ?>" data-set-lang="<?= e($otherLang) ?>"><?= t('lang_switch') ?></a></nav></header>
 <main id="main">
 <section class="hero" id="home" aria-roledescription="carousel" aria-label="<?= t('hero_label') ?>">
   <div class="hero-art event-art is-active" style="background-image:url('<?= e($heroEvent) ?>')" aria-hidden="true"></div><div class="hero-art marketing-art" style="background-image:url('<?= e($heroMarketing) ?>')" aria-hidden="true"></div><div class="hero-shade" aria-hidden="true"></div>

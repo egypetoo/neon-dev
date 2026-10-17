@@ -3,7 +3,7 @@ declare(strict_types=1);
 
 $allowedLangs = ['en', 'ar'];
 
-$requestedLang = $_GET['lang'] ?? null;
+$requestedLang = $_GET['set_lang'] ?? $_GET['lang'] ?? null;
 if (is_string($requestedLang) && in_array($requestedLang, $allowedLangs, true)) {
     setcookie('neon_lang', $requestedLang, [
         'expires' => time() + 60 * 60 * 24 * 365,
@@ -65,5 +65,5 @@ function lang_href(string $code): string
     $uri = strtok((string) ($_SERVER['REQUEST_URI'] ?? '/'), '?');
     $path = ($uri !== false && $uri !== '') ? $uri : '/';
     $join = str_contains($path, '?') ? '&' : '?';
-    return $path . $join . 'lang=' . $code;
+    return $path . $join . 'set_lang=' . $code;
 }

@@ -1,4 +1,6 @@
 'use strict';
+window.addEventListener('pageshow',event=>{if(event.persisted)location.reload()});
+document.querySelectorAll('[data-set-lang]').forEach(link=>link.addEventListener('click',()=>{document.cookie=`neon_lang=${link.dataset.setLang};path=/;max-age=31536000;SameSite=Lax`}));
 const reducedMotion=window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 const expertise=window.NEON.expertise;
 const projects=window.NEON.projects;
