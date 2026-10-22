@@ -147,6 +147,21 @@ function neon_setting(string $key): string
     return (string) ($settings[$key] ?? '');
 }
 
+function neon_contact_digits(string $number): string
+{
+    $digits = preg_replace('/\D+/', '', $number) ?? '';
+    if (str_starts_with($digits, '00')) {
+        $digits = substr($digits, 2);
+    }
+    if (preg_match('/^0(10|11|12|15)\d{8}$/', $digits) === 1) {
+        $digits = '20' . substr($digits, 1);
+    }
+    if (preg_match('/^[1-9]\d{7,14}$/', $digits) !== 1) {
+        return '';
+    }
+    return $digits;
+}
+
 function neon_safe_url(string $url): string
 {
     return preg_match('#^https?://#i', $url) === 1 ? $url : '#';

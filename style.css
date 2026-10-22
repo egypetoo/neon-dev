@@ -1819,31 +1819,11 @@ select {
     }
 }
 
-/* Preserve the original gradient; make only the two n letters white. */
 .site-header .logo,footer .logo {
     position: relative;
     background: transparent;
     padding: 0;
-    border-radius: 0;
-    isolation: isolate
-}
-
-.site-header .logo::before,.site-header .logo::after,footer .logo::before,footer .logo::after {
-    content: "";
-    position: absolute;
-    inset: 0;
-    pointer-events: none;
-    background: #fff;
-    -webkit-mask: url('assets/neon-logo.png') center/100% 100% no-repeat;
-    mask: url('assets/neon-logo.png') center/100% 100% no-repeat
-}
-
-.site-header .logo::before,footer .logo::before {
-    clip-path: inset(0 75% 0 0)
-}
-
-.site-header .logo::after,footer .logo::after {
-    clip-path: inset(0 0 0 75%)
+    border-radius: 0
 }
 
 @media(min-width: 768px) {
